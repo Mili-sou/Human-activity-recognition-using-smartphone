@@ -1,4 +1,4 @@
-# <u>Human-activity-recognition-using-smartphone</u>
+# Human-activity-recognition-using-smartphone
 This project is completed by taking help from course "Complete machine learning and Data Science Program using Python" offered by Geekdforgeeks.
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*DVW2ltAosSGhuH4m">
